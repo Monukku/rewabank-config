@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to rewabank accounts related production APIs "
+  message: "Welcome to rewabank accounts related product APIs "
   contactDetails:
     name: "Monu kumar - Product Owner"
     email: "{cipher}18aacc5eeea5cb16e46afb168b24dffac14f474d21ba240c6edf5ad32c3c67d457a7f1854bd106b4ab5916ec337dc639"

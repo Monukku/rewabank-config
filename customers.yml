@@ -1,1 +1,11 @@
+build:
+  version: "3.0"
 
+customers:
+  message: "Welcome to rewabank customers related local APIs "
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john@rewabank.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
